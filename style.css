@@ -1,0 +1,16 @@
+body {
+    background: #eb1515;
+}
+
+
+
+.header {
+    display: flex;
+    justify-content: center;
+    color: orange;
+}
+
+button {
+    background-color: rgb(253, 236, 0);
+    
+}
